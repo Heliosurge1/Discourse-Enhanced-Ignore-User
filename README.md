@@ -1,4 +1,4 @@
-# **Theme Name**
+# **Enhanced Inire User**
 
 **Theme Summary**
 
